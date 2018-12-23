@@ -1,10 +1,10 @@
 # Пшеницын Максим - Детективная игра "Криминалист"
 
-## Группа: 10-МИ-2
+#### Группа: 10-МИ-2
 
-## e-mail: maxo779@mail.ru
+#### e-mail: maxo779@mail.ru
 
-## vk: https://vk.com/megamaxkrut
+#### vk: https://vk.com/megamaxkrut
 
 [ НАЗВАНИЕ ПРОЕКТА ]
 
